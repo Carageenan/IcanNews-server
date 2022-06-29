@@ -1,0 +1,18 @@
+[
+  {
+    "username": "icanGans",
+    "email": "ican@gmail.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": "0854612475",
+    "address": "6 Stoughton Center"
+  },
+  {
+    "username": "leviGans",
+    "email": "levi@gmail.com",
+    "password": "12345",
+    "role": "Staff",
+    "phoneNumber": "237-123-4081",
+    "address": "6 depok Center"
+  }
+]

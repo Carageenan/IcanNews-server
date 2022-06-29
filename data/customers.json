@@ -1,0 +1,18 @@
+[
+  {
+    "username": "Jenaka",
+    "email": "jenn@gmail.com",
+    "password": "12345",
+    "role": "Customer",
+    "phoneNumber": "237-123-4081",
+    "address": "6 Stoughton Center"
+  },
+  {
+    "username": "Albert",
+    "email": "albert@gmail.com",
+    "password": "12345",
+    "role": "Customer",
+    "phoneNumber": "967-135-9764",
+    "address": "74861 Ilene Center"
+  }
+]
